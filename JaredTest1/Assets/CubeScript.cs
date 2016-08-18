@@ -6,7 +6,7 @@ public class CubeScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-	print("Hell");
+	print("He");
 
 	}
 	
